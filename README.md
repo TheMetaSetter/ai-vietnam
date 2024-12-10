@@ -1,2 +1,2 @@
 # AIO - AI VIETNAM
-This repository contains code for topics I'm learning in the AIO course.
+This repository contains code for things I've done within AI VIETNAM.
