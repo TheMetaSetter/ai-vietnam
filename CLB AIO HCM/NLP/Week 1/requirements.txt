@@ -1,3 +1,0 @@
-nltk
-ipykernel
-scikit-learn
